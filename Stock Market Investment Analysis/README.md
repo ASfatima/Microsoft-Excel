@@ -1,4 +1,4 @@
-# Stock Analysis Project 
+# Stock Market Investment Analysis Project 
 ---
 
 ## In this project, I worked on how can I analyze Stock Market. 
